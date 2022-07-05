@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.btn {
+    display: inline-block;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 10px;
+    background-color: #02a95c;
+    border-radius: 5%;
+}
+
+.welcome-section {
+    padding: 100px 250px;
+    text-align: center;
+    color: white;
+    background-image: url(/used-img/donation13.jpg), linear-gradient(to top, blue, red);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.welcome-section h1 {
+    font-size: 4rem;
+}
+
+.donate-section {
+    text-align: center;
+    padding: 100px 200px;
+}
+
+.taka {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px;
+}
+
+.taka h1 {
+    display: inline-block;
+    font-size: 2rem;
+    color: gray;
+    background-color: rgb(237, 237, 233);
+    padding: 40px 20px;
+    border-radius: 5%;
+}
+
+#action {
+    color: #02a95c;
+    border: 1px solid #02a95c;
+    background-color: azure;
+}
+
+.taka-amount {
+    text-align: center;
+}
+
+.taka-input {
+    width: 700px;
+    height: 50;
+    margin: 30px 5px;
+    color: rgb(227, 223, 223);
+    font-size: 1.4em;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(227, 223, 223);
+
+}
