@@ -28,7 +28,7 @@ p {
     padding: 100px 250px;
     text-align: center;
     color: white;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.1)), url(/used-img/donation13.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.1)), url(../used-img/donation13.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
