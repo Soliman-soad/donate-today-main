@@ -165,10 +165,17 @@ p {
 }
 
 footer {
-    color: ;
     text-align: center;
+    background-color: rgb(38, 38, 38);
+    padding: 50px;
 }
 
 footer h2 {
     color: #02a95c;
+    font-family: 'Pacifico', cursive;
+}
+
+footer p {
+    color: white;
+    font-size: 0.9rem;
 }
